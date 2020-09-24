@@ -1,2 +1,2 @@
 #A utility mod for Minecraft
-Minecraft 1.15.2
+Required Minecraft version: 1.15.2
