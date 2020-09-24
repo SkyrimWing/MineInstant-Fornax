@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "mineinstant:block/frost_glue_fluid_block" }
+    }
+}

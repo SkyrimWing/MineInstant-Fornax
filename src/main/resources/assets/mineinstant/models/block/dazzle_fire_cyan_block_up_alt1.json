@@ -1,0 +1,7 @@
+{
+    "parent": "block/fire_up_alt",
+    "textures": {
+        "particle": "mineinstant:block/fire_layer_cyan_1",
+        "fire": "mineinstant:block/fire_layer_cyan_1"
+    }
+}

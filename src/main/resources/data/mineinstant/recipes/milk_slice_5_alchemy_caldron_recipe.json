@@ -1,0 +1,19 @@
+{
+	"type": "mineinstant:alchemy_caldron_recipe_type",
+	"ingredient": {
+		"item": "minecraft:milk_bucket"
+	},
+	"accessory": {
+		"item": "minecraft:seagrass"
+	},
+	"consume":5,
+	"result": {
+		"item": "mineinstant:milk_slice_item",
+		"count": 2
+	},
+	"byproduct": {
+		"item": "minecraft:bucket",
+		"count": 1
+	},
+	"experience": 0.2
+}

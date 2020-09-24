@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ig ",
+		"gs ",
+		"   "
+	],
+	"key": {
+		"i": {
+			"item": "minecraft:iron_ingot"
+		},
+		"g": {
+			"item": "minecraft:glass_pane"
+		},
+		"s": {
+			"item": "mineinstant:silver_nugget_item"
+		}
+	},
+	"result": {
+		"item": "mineinstant:dazzle_flint_igniter_item"
+	}
+}

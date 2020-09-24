@@ -1,0 +1,29 @@
+{
+	"itemGroup.mineinstantblock": "工艺时刻方块",
+	"itemGroup.mineinstantmaterial": "工艺时刻材料",
+	"itemGroup.mineinstanttool": "工艺时刻工具",
+	
+	"block.mineinstant.silver_ore_block": "银矿石",
+	"block.mineinstant.silver_block": "银块",
+	
+	"block.mineinstant.alchemy_caldron_block": "炼金釜",
+	
+	"item.mineinstant.silver_ingot_item": "银锭",
+	"item.mineinstant.silver_nugget_item": "银粒",
+	"item.mineinstant.frost_glue_bucket_item": "寒霜桶",
+	
+	"item.mineinstant.curious_oxeye_daisy_pudding_item": "滨菊花冻",
+	"item.mineinstant.curious_cornflower_pudding_item": "矢车菊花冻",
+	"item.mineinstant.curious_lily_of_the_valley_pudding_item": "铃兰花冻",
+	"item.mineinstant.curious_wither_rose_pudding_item": "凋零玫瑰花冻",
+	"item.mineinstant.curious_tulip_pudding_item": "郁金香花冻",
+	"item.mineinstant.curious_azure_bluet_pudding_item": "茜草花花冻",
+	"item.mineinstant.curious_allium_pudding_item": "绒球葱花冻",
+	"item.mineinstant.curious_satiety_pudding_item": "饱和花冻",
+	"item.mineinstant.curious_poppy_pudding_item": "虞美人花冻",
+	"item.mineinstant.night_vision_tablet_item": "夜视丹",
+	
+	"item.mineinstant.dazzle_flint_igniter_item": "彩火镰"
+	
+	
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "mineinstant:block/alchemy_caldron_2_block",
+        "side": "mineinstant:block/alchemy_caldron_0_block"
+    }
+}

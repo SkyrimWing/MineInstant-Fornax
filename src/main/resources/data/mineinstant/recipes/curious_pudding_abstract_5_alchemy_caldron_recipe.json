@@ -1,0 +1,19 @@
+{
+	"type": "mineinstant:alchemy_caldron_recipe_type",
+	"ingredient": {
+		"item": "minecraft:suspicious_stew"
+	},
+	"accessory": {
+		"item": "minecraft:seagrass"
+	},
+	"consume":5,
+	"result": {
+		"item": "mineinstant:milk_slice_item",
+		"count": 2
+	},
+	"byproduct": {
+		"item": "minecraft:bowl",
+		"count": 1
+	},
+	"experience": 0.3
+}

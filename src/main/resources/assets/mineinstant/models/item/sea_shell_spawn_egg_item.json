@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "mineinstant:item/sea_shell_spawn_egg_item"
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lit=false": { "model": "mineinstant:block/alchemy_caldron_block" },
+        "lit=true": { "model": "mineinstant:block/alchemy_caldron_on_block" }
+    }
+}

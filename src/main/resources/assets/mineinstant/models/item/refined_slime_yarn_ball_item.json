@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "mineinstant:item/refined_slime_yarn_ball_item"
+	}
+}

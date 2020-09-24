@@ -1,0 +1,7 @@
+{
+    "parent": "block/fire_side",
+    "textures": {
+        "particle": "mineinstant:block/fire_layer_light_blue_1",
+        "fire": "mineinstant:block/fire_layer_light_blue_1"
+    }
+}

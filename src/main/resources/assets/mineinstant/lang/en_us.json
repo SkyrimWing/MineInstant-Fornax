@@ -1,0 +1,37 @@
+{
+	"itemGroup.mineinstantblock": "Mine Instant Block",
+	"itemGroup.mineinstantmaterial": "Mine Instant Material",
+	"itemGroup.mineinstanttool": "Mine Instant Tool",
+	
+	"block.mineinstant.silver_ore_block": "Silver Ore",
+	"block.mineinstant.silver_block": "Silver Block",
+	
+	"block.mineinstant.alchemy_caldron_block": "Alchemy Caldorn",
+	
+	"item.mineinstant.silver_ingot_item": "Silver Ingot",
+	"item.mineinstant.silver_nugget_item": "Silver Nugget",
+	
+	"item.mineinstant.marble_pellet_item": "Marble Pellet",
+	
+	"item.mineinstant.sea_shell_spawn_egg_item": "Sea Shell Spawn Egg",
+	
+	"item.mineinstant.frost_glue_bucket_item": "Frost Glue Bucket",
+	
+	"item.mineinstant.curious_oxeye_daisy_pudding_item": "Curious Oxeye Pudding",
+	"item.mineinstant.curious_cornflower_pudding_item": "Curious Cornflower Pudding",
+	"item.mineinstant.curious_lily_of_the_valley_pudding_item": "Curious Lily Pudding",
+	"item.mineinstant.curious_wither_rose_pudding_item": "Curious Wither Pudding",
+	"item.mineinstant.curious_tulip_pudding_item": "Curious Tulip Pudding",
+	"item.mineinstant.curious_azure_bluet_pudding_item": "Curious Azure Pudding",
+	"item.mineinstant.curious_allium_pudding_item": "Curious Allium Pudding",
+	"item.mineinstant.curious_satiety_pudding_item": "Curious Satiety Pudding",
+	"item.mineinstant.curious_poppy_pudding_item": "Curious Poppy Pudding",
+	"item.mineinstant.milk_slice_item": "Milk Slice",
+	"item.mineinstant.night_vision_tablet_item": "Night Vision Tablet",
+	
+	"item.mineinstant.dazzle_flint_igniter_item": "Dazzle flint igniter",
+	
+	"effect.mineinstant.trigger_fire_resistance_effect": "Trigger Effect",
+	"effect.mineinstant.trigger_saturation_effect": "Trigger Effect",
+	"effect.mineinstant.trigger_poison_effect": "Trigger Effect"
+}

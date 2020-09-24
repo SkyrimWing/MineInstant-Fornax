@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "SRS",
+	" P "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+	"R": {
+      "item": "mineinstant:refined_slime_yarn_ball_item"
+    },
+	"P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "mineinstant:slingshot_item"
+  }
+}

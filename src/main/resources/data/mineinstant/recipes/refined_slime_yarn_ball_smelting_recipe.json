@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "mineinstant:slime_yarn_ball_item"
+	},
+	"result": "mineinstant:refined_slime_yarn_ball_item",
+	"experience": 0.5,
+	"cookingtime": 200
+}

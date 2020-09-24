@@ -1,0 +1,9 @@
+{
+	"parent": "mineinstant:item/curious_pudding_item",
+	"textures": {
+		"top": "mineinstant:item/curious_oxeye_daisy_pudding_top_item",
+		"line": "mineinstant:item/curious_oxeye_daisy_pudding_line_item",
+		"side": "mineinstant:item/curious_oxeye_daisy_pudding_side_item",
+		"bottom": "mineinstant:item/curious_oxeye_daisy_pudding_bottom_item"
+	}
+}

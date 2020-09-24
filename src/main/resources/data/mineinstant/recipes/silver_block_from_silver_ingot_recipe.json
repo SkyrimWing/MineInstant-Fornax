@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"sss",
+		"sss",
+		"sss"
+	],
+	"key": {
+		"s": {
+			"item": "mineinstant:silver_ingot_item"
+		}
+	},
+	"result": {
+		"item": "mineinstant:silver_block"
+	}
+}

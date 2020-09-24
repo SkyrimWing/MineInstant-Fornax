@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "mineinstant:item/dazzle_flint_igniter_item"
+	}
+}
